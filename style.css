@@ -20,8 +20,8 @@ input,select{vertical-align:middle}
     position: fixed;
     height: 100%;
     width: 100%;
-    background: #EEE; 
-    background-image:url('backgroun2.jfif');
+    
+    background-image:url('background2.jfif');
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size: cover;
